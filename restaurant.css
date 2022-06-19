@@ -1,0 +1,155 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color:bisque;
+    margin: 0;
+    padding: 0;
+    color: #F15412;
+    font-size: 22px;
+}
+
+body a{
+    color:#F15412;
+    text-decoration: none;
+}
+
+
+.header{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+
+}
+
+
+.header span{
+    display: flex;
+    flex-direction: row;
+    margin: 15px;
+  
+}
+
+
+.header h3{
+    margin-top:  7px;
+    margin-bottom: 0;
+    margin-left: 17px;
+    margin-right: 17px; 
+}
+
+
+.header img{
+    width: 42px;
+    padding: 5px;
+    
+}
+
+
+.container{
+    display: flex;
+    flex-direction: row;
+    margin: center;
+    padding: 60px;
+
+}
+
+
+.container_delivery{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+.container_delivery form{
+    box-sizing: border-box;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    padding: 10px;
+    border: 2px;
+    border-radius: 1px;
+    border-width: 2px;
+    border-style: dashed;
+}
+
+
+.container_delivery-row-one{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.container_reservation{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+.container_reservation form{
+    box-sizing: border-box;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    padding: 10px;
+    border: 2px;
+    border-radius: 1px;
+    border-width: 2px;
+    border-style: dashed;
+}
+
+
+container_reservation form label{
+    font: size 10px;
+}
+
+footer .footer{
+    background-color:black ;
+    font-size: 11px;
+    display: flex;
+    flex-direction: row;
+    align-self:baseline;
+    
+}
+
+
+footer .footer-column-one{
+    margin: 30px;
+    padding: 10px;
+    align-self: auto;
+}
+
+
+footer .footer-column-two{
+    margin: 30px;
+    padding: 10px;
+    align-self: auto;
+}
+
+
+footer .footer-column-three{
+    margin: 30px;
+    padding: 10px;
+    align-self: auto;
+}
+
+
+footer .footer-column-four{
+    margin: 30px;
+    padding: 10px;
+    align-self: auto;
+}
+
+
+footer .extreme footer{
+    margin: 30px;
+    padding: 10px;
+    align-self: auto;
+}
+
+
+
+
