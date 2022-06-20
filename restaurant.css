@@ -120,6 +120,7 @@ body a{
     padding: 10px 16px;
     border-radius: 12px;
     transition: 0.2s;
+    cursor: pointer;
 }
 
 
@@ -222,6 +223,7 @@ body a{
     padding: 10px 16px;
     border-radius: 12px;
     transition: 0.2s;
+    cursor: pointer;
 }
 
 
